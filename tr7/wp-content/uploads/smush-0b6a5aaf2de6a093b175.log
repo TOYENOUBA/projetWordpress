@@ -1,0 +1,455 @@
+[2021-12-02 14:24:37 : INFO] - Re_Smush_It_Task with attachment ID : 12, autocreated on : December 02, 2021 02:24:37 
+[2021-12-02 14:28:16 : INFO] - Re_Smush_It_Task with attachment ID : 13, autocreated on : December 02, 2021 02:28:16 
+[2021-12-02 14:29:39 : INFO] - 
+ 
+[2021-12-02 14:29:39 : INFO] - Header for logs at time:  Thu, 02 Dec 2021 14:29:39 +0000 on http://localhost/tr7 
+[2021-12-02 14:29:39 : INFO] - WP: 5.8.2 
+[2021-12-02 14:29:39 : INFO] - PHP: 7.3.21 (apache2handler, Windows NT DESKTOP-NJBNJLN 10.0 build 19043 (Windows 10) AMD64) 
+[2021-12-02 14:29:39 : INFO] - MySQL: 5.7.31 
+[2021-12-02 14:29:39 : INFO] - WPLANG: fr_FR 
+[2021-12-02 14:29:39 : INFO] - Server: Apache/2.4.46 (Win64) PHP/7.3.21 
+[2021-12-02 14:29:39 : INFO] - Outbound connections: N 
+[2021-12-02 14:29:39 : INFO] - safe_mode: 0 
+[2021-12-02 14:29:39 : INFO] - max_execution_time: 120 
+[2021-12-02 14:29:39 : INFO] - memory_limit: 128M (used: 11.4M | 2M) 
+[2021-12-02 14:29:39 : INFO] - multisite: N 
+[2021-12-02 14:29:39 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2021-12-02 14:29:39 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-12-02 14:29:39 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-02 14:29:39 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-02 14:29:39 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2021-12-02 14:29:39 : INFO] - Task with ID 1 and type (smush) failed with error code exceeded_max_filesize - C:\wamp64\www\tr7/wp-content/uploads/2021/12/Crescent-Moon-27186.mp4 - cannot be optimized, file size is above service provider limit 
+[2021-12-02 14:29:39 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2021-12-02 14:29:39 : INFO] - Re_Smush_It_Task with attachment ID : 13, autocreated on : December 02, 2021 02:28:16 
+[2021-12-02 14:29:39 : INFO] - 60 
+[2021-12-02 14:30:05 : INFO] - Task with ID 2 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2021-12-02 14:30:05 : INFO] - data: {"src":"http:\/\/par4.static.resmush.it\/39cf5b459f141468ffd6fb1880e97e20\/_src_Tr7_2.png","dest":"http:\/\/par4.static.resmush.it\/39cf5b459f141468ffd6fb1880e97e20\/Tr7_2.png","src_size":3566102,"dest_size":1208534,"percent":66,"output":"json","expires":"Thu, 02 Dec 2021 15:35:01 +0100","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2021-12-02 14:30:05 : INFO] - Re_Smush_It_Task with attachment ID : 13, autocreated on : December 02, 2021 02:28:16 
+[2021-12-02 14:30:05 : INFO] - 60 
+[2021-12-02 14:30:08 : INFO] - Re_Smush_It_Task with attachment ID : 13, autocreated on : December 02, 2021 02:28:16 
+[2021-12-02 14:30:08 : INFO] - 60 
+[2021-12-02 14:30:18 : INFO] - Re_Smush_It_Task with attachment ID : 13, autocreated on : December 02, 2021 02:28:16 
+[2021-12-02 14:30:18 : INFO] - 60 
+[2021-12-02 14:30:20 : INFO] - Re_Smush_It_Task with attachment ID : 13, autocreated on : December 02, 2021 02:28:16 
+[2021-12-02 14:30:20 : INFO] - 60 
+[2021-12-02 14:30:28 : INFO] - Re_Smush_It_Task with attachment ID : 13, autocreated on : December 02, 2021 02:28:16 
+[2021-12-02 14:30:28 : INFO] - 60 
+[2021-12-02 14:30:40 : INFO] - Successfully optimized the image - C:\wamp64\www\tr7/wp-content/uploads/2021/12/Tr7_2.png. 
+[2021-12-02 14:30:40 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2021-12-02 14:30:40 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-02 14:30:40 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-12-02 14:30:40 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-02 14:30:40 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-12-02 14:39:53 : INFO] - 
+ 
+[2021-12-02 14:39:53 : INFO] - Header for logs at time:  Thu, 02 Dec 2021 14:39:53 +0000 on http://localhost/tr7 
+[2021-12-02 14:39:53 : INFO] - WP: 5.8.2 
+[2021-12-02 14:39:53 : INFO] - PHP: 7.3.21 (apache2handler, Windows NT DESKTOP-NJBNJLN 10.0 build 19043 (Windows 10) AMD64) 
+[2021-12-02 14:39:53 : INFO] - MySQL: 5.7.31 
+[2021-12-02 14:39:53 : INFO] - WPLANG: fr_FR 
+[2021-12-02 14:39:53 : INFO] - Server: Apache/2.4.46 (Win64) PHP/7.3.21 
+[2021-12-02 14:39:53 : INFO] - Outbound connections: N 
+[2021-12-02 14:39:53 : INFO] - safe_mode: 0 
+[2021-12-02 14:39:53 : INFO] - max_execution_time: 120 
+[2021-12-02 14:39:53 : INFO] - memory_limit: 128M (used: 11.4M | 2M) 
+[2021-12-02 14:39:53 : INFO] - multisite: N 
+[2021-12-02 14:39:53 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2021-12-02 14:39:53 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-12-02 16:48:14 : INFO] - Re_Smush_It_Task with attachment ID : 23, autocreated on : December 02, 2021 04:48:14 
+[2021-12-02 16:50:49 : INFO] - Re_Smush_It_Task with attachment ID : 24, autocreated on : December 02, 2021 04:50:49 
+[2021-12-02 16:53:20 : INFO] - 
+ 
+[2021-12-02 16:53:20 : INFO] - Header for logs at time:  Thu, 02 Dec 2021 16:53:20 +0000 on http://localhost/tr7 
+[2021-12-02 16:53:20 : INFO] - WP: 5.8.2 
+[2021-12-02 16:53:20 : INFO] - PHP: 7.3.21 (apache2handler, Windows NT DESKTOP-NJBNJLN 10.0 build 19043 (Windows 10) AMD64) 
+[2021-12-02 16:53:20 : INFO] - MySQL: 5.7.31 
+[2021-12-02 16:53:20 : INFO] - WPLANG: fr_FR 
+[2021-12-02 16:53:20 : INFO] - Server: Apache/2.4.46 (Win64) PHP/7.3.21 
+[2021-12-02 16:53:20 : INFO] - Outbound connections: N 
+[2021-12-02 16:53:20 : INFO] - safe_mode: 0 
+[2021-12-02 16:53:20 : INFO] - max_execution_time: 120 
+[2021-12-02 16:53:20 : INFO] - memory_limit: 128M (used: 11.4M | 2M) 
+[2021-12-02 16:53:20 : INFO] - multisite: N 
+[2021-12-02 16:53:20 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2021-12-02 16:53:20 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-12-02 16:53:20 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-02 16:53:20 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-02 16:53:20 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2021-12-02 16:53:20 : INFO] - Re_Smush_It_Task with attachment ID : 24, autocreated on : December 02, 2021 04:50:49 
+[2021-12-02 16:53:20 : INFO] - 60 
+[2021-12-02 16:53:27 : INFO] - Backing up the original image - 2021/12/cropped-Tr7-updraft-pre-smush-original.png 
+[2021-12-02 16:53:27 : INFO] - Successfully optimized the image - . 
+[2021-12-02 16:53:27 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2021-12-02 16:53:27 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2021-12-02 16:53:27 : INFO] - Re_Smush_It_Task with attachment ID : 23, autocreated on : December 02, 2021 04:48:14 
+[2021-12-02 16:53:27 : INFO] - 60 
+[2021-12-02 16:53:30 : INFO] - Backing up the original image - 2021/12/Tr7-updraft-pre-smush-original.png 
+[2021-12-02 16:53:30 : INFO] - Successfully optimized the image - C:\wamp64\www\tr7/wp-content/uploads/2021/12/Tr7.png. 
+[2021-12-02 16:53:30 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2021-12-02 16:53:30 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-02 16:53:30 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-12-02 16:53:30 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-02 16:53:30 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-12-02 17:03:36 : INFO] - 
+ 
+[2021-12-02 17:03:36 : INFO] - Header for logs at time:  Thu, 02 Dec 2021 17:03:36 +0000 on http://localhost/tr7 
+[2021-12-02 17:03:36 : INFO] - WP: 5.8.2 
+[2021-12-02 17:03:36 : INFO] - PHP: 7.3.21 (apache2handler, Windows NT DESKTOP-NJBNJLN 10.0 build 19043 (Windows 10) AMD64) 
+[2021-12-02 17:03:36 : INFO] - MySQL: 5.7.31 
+[2021-12-02 17:03:36 : INFO] - WPLANG: fr_FR 
+[2021-12-02 17:03:36 : INFO] - Server: Apache/2.4.46 (Win64) PHP/7.3.21 
+[2021-12-02 17:03:36 : INFO] - Outbound connections: N 
+[2021-12-02 17:03:36 : INFO] - safe_mode: 0 
+[2021-12-02 17:03:36 : INFO] - max_execution_time: 120 
+[2021-12-02 17:03:36 : INFO] - memory_limit: 128M (used: 11.4M | 2M) 
+[2021-12-02 17:03:36 : INFO] - multisite: N 
+[2021-12-02 17:03:36 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2021-12-02 17:03:36 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-12-03 01:05:02 : INFO] - Re_Smush_It_Task with attachment ID : 49, autocreated on : December 03, 2021 01:05:02 
+[2021-12-03 01:10:05 : INFO] - 
+ 
+[2021-12-03 01:10:05 : INFO] - Header for logs at time:  Fri, 03 Dec 2021 01:10:05 +0000 on http://localhost/tr7 
+[2021-12-03 01:10:05 : INFO] - WP: 5.8.2 
+[2021-12-03 01:10:05 : INFO] - PHP: 7.3.21 (apache2handler, Windows NT DESKTOP-NJBNJLN 10.0 build 19043 (Windows 10) AMD64) 
+[2021-12-03 01:10:05 : INFO] - MySQL: 5.7.31 
+[2021-12-03 01:10:05 : INFO] - WPLANG: fr_FR 
+[2021-12-03 01:10:05 : INFO] - Server: Apache/2.4.46 (Win64) PHP/7.3.21 
+[2021-12-03 01:10:05 : INFO] - Outbound connections: N 
+[2021-12-03 01:10:05 : INFO] - safe_mode: 0 
+[2021-12-03 01:10:05 : INFO] - max_execution_time: 120 
+[2021-12-03 01:10:05 : INFO] - memory_limit: 128M (used: 11.4M | 2M) 
+[2021-12-03 01:10:05 : INFO] - multisite: N 
+[2021-12-03 01:10:05 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2021-12-03 01:10:05 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-12-03 01:10:05 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-03 01:10:05 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-03 01:10:05 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2021-12-03 01:10:05 : INFO] - Re_Smush_It_Task with attachment ID : 49, autocreated on : December 03, 2021 01:05:02 
+[2021-12-03 01:10:05 : INFO] - 60 
+[2021-12-03 01:10:05 : INFO] - Task with ID 5 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 01:10:05 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 01:10:05 : INFO] - Re_Smush_It_Task with attachment ID : 49, autocreated on : December 03, 2021 01:05:02 
+[2021-12-03 01:10:05 : INFO] - 60 
+[2021-12-03 01:10:05 : INFO] - Task with ID 5 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 01:10:05 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 01:10:05 : INFO] - Re_Smush_It_Task with attachment ID : 49, autocreated on : December 03, 2021 01:05:02 
+[2021-12-03 01:10:05 : INFO] - 60 
+[2021-12-03 01:10:05 : INFO] - Task with ID 5 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 01:10:05 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 01:10:05 : INFO] - Re_Smush_It_Task with attachment ID : 49, autocreated on : December 03, 2021 01:05:02 
+[2021-12-03 01:10:05 : INFO] - 60 
+[2021-12-03 01:10:05 : INFO] - Task with ID 5 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 01:10:05 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 01:10:05 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-03 01:10:05 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-12-03 01:10:05 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-03 01:10:05 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-12-03 01:20:17 : INFO] - 
+ 
+[2021-12-03 01:20:17 : INFO] - Header for logs at time:  Fri, 03 Dec 2021 01:20:17 +0000 on http://localhost/tr7 
+[2021-12-03 01:20:17 : INFO] - WP: 5.8.2 
+[2021-12-03 01:20:17 : INFO] - PHP: 7.3.21 (apache2handler, Windows NT DESKTOP-NJBNJLN 10.0 build 19043 (Windows 10) AMD64) 
+[2021-12-03 01:20:17 : INFO] - MySQL: 5.7.31 
+[2021-12-03 01:20:17 : INFO] - WPLANG: fr_FR 
+[2021-12-03 01:20:17 : INFO] - Server: Apache/2.4.46 (Win64) PHP/7.3.21 
+[2021-12-03 01:20:17 : INFO] - Outbound connections: N 
+[2021-12-03 01:20:17 : INFO] - safe_mode: 0 
+[2021-12-03 01:20:17 : INFO] - max_execution_time: 120 
+[2021-12-03 01:20:17 : INFO] - memory_limit: 128M (used: 11.4M | 2M) 
+[2021-12-03 01:20:17 : INFO] - multisite: N 
+[2021-12-03 01:20:17 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2021-12-03 01:20:17 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-12-03 01:56:38 : INFO] - Re_Smush_It_Task with attachment ID : 62, autocreated on : December 03, 2021 01:56:38 
+[2021-12-03 01:57:25 : INFO] - Re_Smush_It_Task with attachment ID : 63, autocreated on : December 03, 2021 01:57:25 
+[2021-12-03 02:01:44 : INFO] - 
+ 
+[2021-12-03 02:01:44 : INFO] - Header for logs at time:  Fri, 03 Dec 2021 02:01:44 +0000 on http://localhost/tr7 
+[2021-12-03 02:01:44 : INFO] - WP: 5.8.2 
+[2021-12-03 02:01:44 : INFO] - PHP: 7.3.21 (apache2handler, Windows NT DESKTOP-NJBNJLN 10.0 build 19043 (Windows 10) AMD64) 
+[2021-12-03 02:01:44 : INFO] - MySQL: 5.7.31 
+[2021-12-03 02:01:44 : INFO] - WPLANG: fr_FR 
+[2021-12-03 02:01:44 : INFO] - Server: Apache/2.4.46 (Win64) PHP/7.3.21 
+[2021-12-03 02:01:44 : INFO] - Outbound connections: N 
+[2021-12-03 02:01:44 : INFO] - safe_mode: 0 
+[2021-12-03 02:01:44 : INFO] - max_execution_time: 120 
+[2021-12-03 02:01:44 : INFO] - memory_limit: 128M (used: 11.4M | 2M) 
+[2021-12-03 02:01:44 : INFO] - multisite: N 
+[2021-12-03 02:01:44 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2021-12-03 02:01:44 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-12-03 02:01:44 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-03 02:01:44 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-03 02:01:44 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2021-12-03 02:01:44 : INFO] - Task with ID 7 and type (smush) failed with error code exceeded_max_filesize - C:\wamp64\www\tr7/wp-content/uploads/2021/12/Twirling-26470.mp4 - cannot be optimized, file size is above service provider limit 
+[2021-12-03 02:01:44 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2021-12-03 02:01:44 : INFO] - Task with ID 6 and type (smush) failed with error code invalid_file_type - C:\wamp64\www\tr7/wp-content/uploads/2021/12/Lines-5142.mp4 - cannot be optimized, it has an invalid file type 
+[2021-12-03 02:01:44 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-03 02:01:44 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-12-03 02:01:44 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-03 02:01:44 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-12-03 02:12:24 : INFO] - 
+ 
+[2021-12-03 02:12:24 : INFO] - Header for logs at time:  Fri, 03 Dec 2021 02:12:24 +0000 on http://localhost/tr7 
+[2021-12-03 02:12:24 : INFO] - WP: 5.8.2 
+[2021-12-03 02:12:24 : INFO] - PHP: 7.3.21 (apache2handler, Windows NT DESKTOP-NJBNJLN 10.0 build 19043 (Windows 10) AMD64) 
+[2021-12-03 02:12:24 : INFO] - MySQL: 5.7.31 
+[2021-12-03 02:12:24 : INFO] - WPLANG: fr_FR 
+[2021-12-03 02:12:24 : INFO] - Server: Apache/2.4.46 (Win64) PHP/7.3.21 
+[2021-12-03 02:12:24 : INFO] - Outbound connections: N 
+[2021-12-03 02:12:24 : INFO] - safe_mode: 0 
+[2021-12-03 02:12:24 : INFO] - max_execution_time: 120 
+[2021-12-03 02:12:24 : INFO] - memory_limit: 128M (used: 11.4M | 2M) 
+[2021-12-03 02:12:24 : INFO] - multisite: N 
+[2021-12-03 02:12:24 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2021-12-03 02:12:24 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-12-03 02:31:07 : INFO] - Re_Smush_It_Task with attachment ID : 64, autocreated on : December 03, 2021 02:31:07 
+[2021-12-03 02:36:12 : INFO] - 
+ 
+[2021-12-03 02:36:12 : INFO] - Header for logs at time:  Fri, 03 Dec 2021 02:36:12 +0000 on http://localhost/tr7 
+[2021-12-03 02:36:12 : INFO] - WP: 5.8.2 
+[2021-12-03 02:36:12 : INFO] - PHP: 7.3.21 (apache2handler, Windows NT DESKTOP-NJBNJLN 10.0 build 19043 (Windows 10) AMD64) 
+[2021-12-03 02:36:12 : INFO] - MySQL: 5.7.31 
+[2021-12-03 02:36:12 : INFO] - WPLANG: fr_FR 
+[2021-12-03 02:36:12 : INFO] - Server: Apache/2.4.46 (Win64) PHP/7.3.21 
+[2021-12-03 02:36:12 : INFO] - Outbound connections: N 
+[2021-12-03 02:36:12 : INFO] - safe_mode: 0 
+[2021-12-03 02:36:12 : INFO] - max_execution_time: 120 
+[2021-12-03 02:36:12 : INFO] - memory_limit: 128M (used: 11.4M | 2M) 
+[2021-12-03 02:36:12 : INFO] - multisite: N 
+[2021-12-03 02:36:12 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2021-12-03 02:36:12 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-12-03 02:36:12 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-03 02:36:12 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-03 02:36:12 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2021-12-03 02:36:12 : INFO] - Re_Smush_It_Task with attachment ID : 64, autocreated on : December 03, 2021 02:31:07 
+[2021-12-03 02:36:12 : INFO] - 60 
+[2021-12-03 02:36:12 : INFO] - Task with ID 8 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 02:36:12 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 02:36:12 : INFO] - Re_Smush_It_Task with attachment ID : 64, autocreated on : December 03, 2021 02:31:07 
+[2021-12-03 02:36:12 : INFO] - 60 
+[2021-12-03 02:36:12 : INFO] - Task with ID 8 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 02:36:12 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 02:36:12 : INFO] - Re_Smush_It_Task with attachment ID : 64, autocreated on : December 03, 2021 02:31:07 
+[2021-12-03 02:36:12 : INFO] - 60 
+[2021-12-03 02:36:12 : INFO] - Task with ID 8 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 02:36:12 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 02:36:12 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-03 02:36:12 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-12-03 02:36:12 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-03 02:36:12 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-12-03 02:38:57 : INFO] - Re_Smush_It_Task with attachment ID : 69, autocreated on : December 03, 2021 02:38:57 
+[2021-12-03 02:39:17 : INFO] - Re_Smush_It_Task with attachment ID : 70, autocreated on : December 03, 2021 02:39:17 
+[2021-12-03 02:44:29 : INFO] - Re_Smush_It_Task with attachment ID : 71, autocreated on : December 03, 2021 02:44:29 
+[2021-12-03 02:46:15 : INFO] - 
+ 
+[2021-12-03 02:46:15 : INFO] - Header for logs at time:  Fri, 03 Dec 2021 02:46:15 +0000 on http://localhost/tr7 
+[2021-12-03 02:46:15 : INFO] - WP: 5.8.2 
+[2021-12-03 02:46:15 : INFO] - PHP: 7.3.21 (apache2handler, Windows NT DESKTOP-NJBNJLN 10.0 build 19043 (Windows 10) AMD64) 
+[2021-12-03 02:46:15 : INFO] - MySQL: 5.7.31 
+[2021-12-03 02:46:15 : INFO] - WPLANG: fr_FR 
+[2021-12-03 02:46:15 : INFO] - Server: Apache/2.4.46 (Win64) PHP/7.3.21 
+[2021-12-03 02:46:15 : INFO] - Outbound connections: N 
+[2021-12-03 02:46:15 : INFO] - safe_mode: 0 
+[2021-12-03 02:46:15 : INFO] - max_execution_time: 120 
+[2021-12-03 02:46:15 : INFO] - memory_limit: 128M (used: 11.4M | 2M) 
+[2021-12-03 02:46:15 : INFO] - multisite: N 
+[2021-12-03 02:46:15 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2021-12-03 02:46:15 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2021-12-03 02:46:15 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-03 02:46:15 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-03 02:46:15 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2021-12-03 02:46:15 : INFO] - Re_Smush_It_Task with attachment ID : 70, autocreated on : December 03, 2021 02:39:17 
+[2021-12-03 02:46:15 : INFO] - 60 
+[2021-12-03 02:46:15 : INFO] - Task with ID 10 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 02:46:15 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 02:46:15 : INFO] - Re_Smush_It_Task with attachment ID : 70, autocreated on : December 03, 2021 02:39:17 
+[2021-12-03 02:46:15 : INFO] - 60 
+[2021-12-03 02:46:15 : INFO] - Task with ID 10 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 02:46:15 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 02:46:15 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2021-12-03 02:46:15 : INFO] - Re_Smush_It_Task with attachment ID : 71, autocreated on : December 03, 2021 02:44:29 
+[2021-12-03 02:46:15 : INFO] - 60 
+[2021-12-03 02:46:15 : INFO] - Task with ID 11 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 02:46:15 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 02:46:15 : INFO] - Re_Smush_It_Task with attachment ID : 71, autocreated on : December 03, 2021 02:44:29 
+[2021-12-03 02:46:15 : INFO] - 60 
+[2021-12-03 02:46:15 : INFO] - Task with ID 11 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 02:46:15 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 02:46:15 : INFO] - Re_Smush_It_Task with attachment ID : 71, autocreated on : December 03, 2021 02:44:29 
+[2021-12-03 02:46:15 : INFO] - 60 
+[2021-12-03 02:46:15 : INFO] - Task with ID 11 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 02:46:15 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 02:46:15 : INFO] - Re_Smush_It_Task with attachment ID : 71, autocreated on : December 03, 2021 02:44:29 
+[2021-12-03 02:46:15 : INFO] - 60 
+[2021-12-03 02:46:15 : INFO] - Task with ID 11 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 02:46:15 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 02:46:15 : INFO] - Re_Smush_It_Task with attachment ID : 71, autocreated on : December 03, 2021 02:44:29 
+[2021-12-03 02:46:15 : INFO] - 60 
+[2021-12-03 02:46:15 : INFO] - Task with ID 11 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 02:46:15 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 02:46:15 : INFO] - Re_Smush_It_Task with attachment ID : 71, autocreated on : December 03, 2021 02:44:29 
+[2021-12-03 02:46:15 : INFO] - 60 
+[2021-12-03 02:46:15 : INFO] - Task with ID 11 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 02:46:15 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 02:46:15 : INFO] - Re_Smush_It_Task with attachment ID : 71, autocreated on : December 03, 2021 02:44:29 
+[2021-12-03 02:46:15 : INFO] - 60 
+[2021-12-03 02:46:15 : INFO] - Task with ID 11 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 02:46:15 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 02:46:15 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2021-12-03 02:46:15 : INFO] - Re_Smush_It_Task with attachment ID : 69, autocreated on : December 03, 2021 02:38:57 
+[2021-12-03 02:46:15 : INFO] - 60 
+[2021-12-03 02:46:15 : INFO] - Task with ID 9 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 02:46:15 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 02:46:15 : INFO] - Re_Smush_It_Task with attachment ID : 69, autocreated on : December 03, 2021 02:38:57 
+[2021-12-03 02:46:15 : INFO] - 60 
+[2021-12-03 02:46:15 : INFO] - Task with ID 9 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 02:46:15 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 02:46:15 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-03 02:46:15 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2021-12-03 02:46:15 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-03 02:46:15 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2021-12-03 02:50:55 : INFO] - Re_Smush_It_Task with attachment ID : 72, autocreated on : December 03, 2021 02:50:55 
+[2021-12-03 02:56:25 : INFO] - 
+ 
+[2021-12-03 02:56:25 : INFO] - Header for logs at time:  Fri, 03 Dec 2021 02:56:25 +0000 on http://localhost/tr7 
+[2021-12-03 02:56:25 : INFO] - WP: 5.8.2 
+[2021-12-03 02:56:25 : INFO] - PHP: 7.3.21 (apache2handler, Windows NT DESKTOP-NJBNJLN 10.0 build 19043 (Windows 10) AMD64) 
+[2021-12-03 02:56:25 : INFO] - MySQL: 5.7.31 
+[2021-12-03 02:56:25 : INFO] - WPLANG: fr_FR 
+[2021-12-03 02:56:25 : INFO] - Server: Apache/2.4.46 (Win64) PHP/7.3.21 
+[2021-12-03 02:56:25 : INFO] - Outbound connections: N 
+[2021-12-03 02:56:25 : INFO] - safe_mode: 0 
+[2021-12-03 02:56:25 : INFO] - max_execution_time: 120 
+[2021-12-03 02:56:25 : INFO] - memory_limit: 128M (used: 11.4M | 2M) 
+[2021-12-03 02:56:25 : INFO] - multisite: N 
+[2021-12-03 02:56:25 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2021-12-03 02:56:25 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-12-03 02:56:25 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-03 02:56:25 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-03 02:56:25 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2021-12-03 02:56:25 : INFO] - Re_Smush_It_Task with attachment ID : 72, autocreated on : December 03, 2021 02:50:55 
+[2021-12-03 02:56:25 : INFO] - 60 
+[2021-12-03 02:56:25 : INFO] - Task with ID 12 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 02:56:25 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 02:56:25 : INFO] - Re_Smush_It_Task with attachment ID : 72, autocreated on : December 03, 2021 02:50:55 
+[2021-12-03 02:56:25 : INFO] - 60 
+[2021-12-03 02:56:25 : INFO] - Task with ID 12 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 02:56:25 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 02:56:25 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-03 02:56:25 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-12-03 02:56:25 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-03 02:56:25 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-12-03 03:06:33 : INFO] - 
+ 
+[2021-12-03 03:06:33 : INFO] - Header for logs at time:  Fri, 03 Dec 2021 03:06:33 +0000 on http://localhost/tr7 
+[2021-12-03 03:06:33 : INFO] - WP: 5.8.2 
+[2021-12-03 03:06:33 : INFO] - PHP: 7.3.21 (apache2handler, Windows NT DESKTOP-NJBNJLN 10.0 build 19043 (Windows 10) AMD64) 
+[2021-12-03 03:06:33 : INFO] - MySQL: 5.7.31 
+[2021-12-03 03:06:33 : INFO] - WPLANG: fr_FR 
+[2021-12-03 03:06:33 : INFO] - Server: Apache/2.4.46 (Win64) PHP/7.3.21 
+[2021-12-03 03:06:33 : INFO] - Outbound connections: N 
+[2021-12-03 03:06:33 : INFO] - safe_mode: 0 
+[2021-12-03 03:06:33 : INFO] - max_execution_time: 120 
+[2021-12-03 03:06:33 : INFO] - memory_limit: 128M (used: 11.4M | 2M) 
+[2021-12-03 03:06:33 : INFO] - multisite: N 
+[2021-12-03 03:06:33 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2021-12-03 03:06:33 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-12-03 07:49:54 : INFO] - Re_Smush_It_Task with attachment ID : 87, autocreated on : December 03, 2021 07:49:54 
+[2021-12-03 07:49:55 : INFO] - Re_Smush_It_Task with attachment ID : 88, autocreated on : December 03, 2021 07:49:55 
+[2021-12-03 07:49:56 : INFO] - Re_Smush_It_Task with attachment ID : 89, autocreated on : December 03, 2021 07:49:56 
+[2021-12-03 07:49:57 : INFO] - Re_Smush_It_Task with attachment ID : 90, autocreated on : December 03, 2021 07:49:57 
+[2021-12-03 07:54:54 : INFO] - 
+ 
+[2021-12-03 07:54:54 : INFO] - Header for logs at time:  Fri, 03 Dec 2021 07:54:54 +0000 on http://localhost/tr7 
+[2021-12-03 07:54:54 : INFO] - WP: 5.8.2 
+[2021-12-03 07:54:54 : INFO] - PHP: 7.3.21 (apache2handler, Windows NT DESKTOP-NJBNJLN 10.0 build 19043 (Windows 10) AMD64) 
+[2021-12-03 07:54:54 : INFO] - MySQL: 5.7.31 
+[2021-12-03 07:54:54 : INFO] - WPLANG: fr_FR 
+[2021-12-03 07:54:54 : INFO] - Server: Apache/2.4.46 (Win64) PHP/7.3.21 
+[2021-12-03 07:54:54 : INFO] - Outbound connections: N 
+[2021-12-03 07:54:54 : INFO] - safe_mode: 0 
+[2021-12-03 07:54:54 : INFO] - max_execution_time: 120 
+[2021-12-03 07:54:54 : INFO] - memory_limit: 128M (used: 11.4M | 2M) 
+[2021-12-03 07:54:54 : INFO] - multisite: N 
+[2021-12-03 07:54:54 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2021-12-03 07:54:54 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2021-12-03 07:54:54 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-03 07:54:54 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-03 07:54:54 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2021-12-03 07:54:54 : INFO] - Task with ID 15 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2021-12-03 07:54:54 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2021-12-03 07:54:54 : INFO] - Task with ID 14 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2021-12-03 07:54:54 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2021-12-03 07:54:54 : INFO] - Re_Smush_It_Task with attachment ID : 87, autocreated on : December 03, 2021 07:49:54 
+[2021-12-03 07:54:54 : INFO] - 60 
+[2021-12-03 07:54:54 : INFO] - Task with ID 13 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 07:54:54 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 07:54:54 : INFO] - Re_Smush_It_Task with attachment ID : 87, autocreated on : December 03, 2021 07:49:54 
+[2021-12-03 07:54:54 : INFO] - 60 
+[2021-12-03 07:54:54 : INFO] - Task with ID 13 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-12-03 07:54:54 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-12-03 07:54:54 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2021-12-03 07:54:54 : INFO] - Task with ID 16 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2021-12-03 07:54:54 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-03 07:54:54 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2021-12-03 07:54:54 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-03 07:54:54 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2021-12-03 08:04:58 : INFO] - 
+ 
+[2021-12-03 08:04:58 : INFO] - Header for logs at time:  Fri, 03 Dec 2021 08:04:58 +0000 on http://localhost/tr7 
+[2021-12-03 08:04:58 : INFO] - WP: 5.8.2 
+[2021-12-03 08:04:58 : INFO] - PHP: 7.3.21 (apache2handler, Windows NT DESKTOP-NJBNJLN 10.0 build 19043 (Windows 10) AMD64) 
+[2021-12-03 08:04:58 : INFO] - MySQL: 5.7.31 
+[2021-12-03 08:04:58 : INFO] - WPLANG: fr_FR 
+[2021-12-03 08:04:58 : INFO] - Server: Apache/2.4.46 (Win64) PHP/7.3.21 
+[2021-12-03 08:04:58 : INFO] - Outbound connections: N 
+[2021-12-03 08:04:58 : INFO] - safe_mode: 0 
+[2021-12-03 08:04:58 : INFO] - max_execution_time: 120 
+[2021-12-03 08:04:58 : INFO] - memory_limit: 128M (used: 11.4M | 2M) 
+[2021-12-03 08:04:58 : INFO] - multisite: N 
+[2021-12-03 08:04:58 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2021-12-03 08:04:58 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-12-03 12:14:35 : INFO] - Re_Smush_It_Task with attachment ID : 107, autocreated on : December 03, 2021 12:14:34 
+[2021-12-03 12:19:42 : INFO] - 
+ 
+[2021-12-03 12:19:42 : INFO] - Header for logs at time:  Fri, 03 Dec 2021 12:19:41 +0000 on http://localhost/tr7 
+[2021-12-03 12:19:42 : INFO] - WP: 5.8.2 
+[2021-12-03 12:19:42 : INFO] - PHP: 7.3.21 (apache2handler, Windows NT DESKTOP-NJBNJLN 10.0 build 19043 (Windows 10) AMD64) 
+[2021-12-03 12:19:42 : INFO] - MySQL: 5.7.31 
+[2021-12-03 12:19:42 : INFO] - WPLANG: fr_FR 
+[2021-12-03 12:19:42 : INFO] - Server: Apache/2.4.46 (Win64) PHP/7.3.21 
+[2021-12-03 12:19:42 : INFO] - Outbound connections: N 
+[2021-12-03 12:19:42 : INFO] - safe_mode: 0 
+[2021-12-03 12:19:42 : INFO] - max_execution_time: 120 
+[2021-12-03 12:19:42 : INFO] - memory_limit: 128M (used: 12M | 2M) 
+[2021-12-03 12:19:42 : INFO] - multisite: N 
+[2021-12-03 12:19:42 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2021-12-03 12:19:42 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-12-03 12:19:42 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-03 12:19:42 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-03 12:19:42 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2021-12-03 12:19:42 : INFO] - Re_Smush_It_Task with attachment ID : 107, autocreated on : December 03, 2021 12:14:34 
+[2021-12-03 12:19:42 : INFO] - 60 
+[2021-12-03 12:19:44 : INFO] - Backing up the original image - 2021/12/ASP.Net_-updraft-pre-smush-original.jpg 
+[2021-12-03 12:19:44 : INFO] - Re_Smush_It_Task with attachment ID : 107, autocreated on : December 03, 2021 12:14:34 
+[2021-12-03 12:19:44 : INFO] - 60 
+[2021-12-03 12:19:50 : INFO] - Successfully optimized the image - C:\wamp64\www\tr7/wp-content/uploads/2021/12/ASP.Net_.jpg. 
+[2021-12-03 12:19:50 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2021-12-03 12:19:50 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-03 12:19:50 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-12-03 12:19:50 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-03 12:19:50 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-12-03 12:31:29 : INFO] - 
+ 
+[2021-12-03 12:31:29 : INFO] - Header for logs at time:  Fri, 03 Dec 2021 12:31:29 +0000 on http://localhost/tr7 
+[2021-12-03 12:31:29 : INFO] - WP: 5.8.2 
+[2021-12-03 12:31:29 : INFO] - PHP: 7.3.21 (apache2handler, Windows NT DESKTOP-NJBNJLN 10.0 build 19043 (Windows 10) AMD64) 
+[2021-12-03 12:31:29 : INFO] - MySQL: 5.7.31 
+[2021-12-03 12:31:29 : INFO] - WPLANG: fr_FR 
+[2021-12-03 12:31:29 : INFO] - Server: Apache/2.4.46 (Win64) PHP/7.3.21 
+[2021-12-03 12:31:29 : INFO] - Outbound connections: N 
+[2021-12-03 12:31:29 : INFO] - safe_mode: 0 
+[2021-12-03 12:31:29 : INFO] - max_execution_time: 120 
+[2021-12-03 12:31:29 : INFO] - memory_limit: 128M (used: 12M | 2M) 
+[2021-12-03 12:31:29 : INFO] - multisite: N 
+[2021-12-03 12:31:29 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2021-12-03 12:31:29 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
