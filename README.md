@@ -6,9 +6,12 @@ réaliser par TOGYENOUBA RIMTEBAYE.
 /*documentation pour pouvoir demarrer le projet*/
 
 1-Pour demarrer ce projet vous devez créer une base de donnée nommée:bdtr7
-2-Puis importer le fichier sql qui se trouve dans le dossier 'tr7/bdtr7' vers la base de donnée.
+2-Puis importer le fichier sql qui se trouve dans le dossier 'projetWordpress/tr7/bdtr7' vers la base de donnée.
 3-Copiez le dossier 'tr7'dans le bon endroit;
 4-Pour visualiser front-office,ouvrez votre navigateur et tapez cette adresse 'http://localhost/tr7/'
+5-Pour l'évolution de ce projet tapez cette adresse 'http://localhost/tr7/wp-admin/' et renseignez les champs suivants:
+       username:tr7
+       password:tr7rimwordpress123
 
 
 /*documentation technique*/
